@@ -26,7 +26,7 @@ import (
 	"context"
 	"time"
 
-	s "go.uber.org/cadence/.gen/go/shared"
+	s "go.uber.org/cadence/gen/go/shared"
 	"go.uber.org/cadence/internal/common/backoff"
 )
 
